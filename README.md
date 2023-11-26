@@ -1,6 +1,6 @@
 # Modelos em Machine Learning
 
-Este repositório abriga mini-projetos que exploram modelos de **regressão, classificação, SVM(Support Vector Machine)) e redes neurais.**  
+Este repositório abriga mini-projetos que exploram modelos de **regressão, classificação, SVM(Support Vector Machine) e redes neurais.**  
 
 O **modelo de regressão** consiste em dois blocos, com o primeiro dedicado à aplicação de técnicas de Machine Learning em Marketing Digital. 
 O objetivo principal é desenvolver um modelo capaz de prever o número de usuários convertidos em um cenário fictício, onde uma empresa hipotética emprega diversas 
@@ -18,7 +18,11 @@ O segmento dedicado à **classificação** neste repositório traz consigo dois 
 
 **Classificação: Regressão Logística - Prevendo a probabilidade de um lead ser convertido**[clique aqui](https://github.com/leticiadluz/Machine_learning_modelos/blob/main/Machine.learning_Marketing.digital_Classificacao.ipynb)
 
-### Pergunta de negócio: Um lead será convertido? Sim ou Não? Qual probabilidade?
+No segundo mini-projeto dedicado à classificação, adotamos o modelo SVM (Support Vector Machine). O propósito central é antecipar a identificação de caracteres com base no conjunto de dados fornecido. 
+Definindo o Problema: OCR - Optical Character Recognition (Reconhecimento Óptico de Caracteres)
+O projeto aborda desafios relacionados à visão computacional, especificamente no âmbito de OCR. O objetivo é treinar o modelo SVM para prever o caractere contido em imagens, tornando-se um componente valioso em sistemas que requerem a interpretação automática de caracteres a partir de documentos, imagens ou outros formatos visuais. Este avanço em Optical Character Recognition promove a automação de processos que envolvem a leitura e interpretação de texto, proporcionando ganhos significativos em eficiência e precisão.
+
+**Classificação: Modelo SVM - Reconhecimento Óptico de Caracteres**[clique aqui](https://github.com/leticiadluz/Machine_learning_modelos/blob/main/Modelo_SVM.ipynb)
 
 ## Ferramentas utilizadas
 

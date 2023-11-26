@@ -1,6 +1,6 @@
 # Modelos em Machine Learning
 
-Este repositório abriga mini-projetos que exploram modelos de **regressão, classificação, SVM(Support Vector Machine) e redes neurais.**  
+Este repositório abriga mini-projetos que exploram modelos de **regressão linear, regressão logística, SVM(Support Vector Machine) e redes neurais.**  
 
 O **modelo de regressão** consiste em dois blocos, com o primeiro dedicado à aplicação de técnicas de Machine Learning em Marketing Digital. 
 O objetivo principal é desenvolver um modelo capaz de prever o número de usuários convertidos em um cenário fictício, onde uma empresa hipotética emprega diversas 
@@ -23,6 +23,10 @@ Definindo o Problema: OCR - Optical Character Recognition (Reconhecimento Óptic
 O projeto aborda desafios relacionados à visão computacional, especificamente no âmbito de OCR. O objetivo é treinar o modelo SVM para prever o caractere contido em imagens, tornando-se um componente valioso em sistemas que requerem a interpretação automática de caracteres a partir de documentos, imagens ou outros formatos visuais. Este avanço em Optical Character Recognition promove a automação de processos que envolvem a leitura e interpretação de texto, proporcionando ganhos significativos em eficiência e precisão.
 
 **Classificação: Modelo SVM - Reconhecimento Óptico de Caracteres**[clique aqui](https://github.com/leticiadluz/Machine_learning_modelos/blob/main/Modelo_SVM.ipynb)
+
+No último mini-projeto empregamos um modelo de rede neural para realizar previsões do valor da mediana de ocupação das casas (MEDV) no dataset. A análise concentrou-se nos dados habitacionais da cidade de Boston, EUA. O conjunto de dados utilizado, conhecido como o 'Boston Housing Dataset', proporciona uma visão abrangente das características das residências na região de Boston. Utilizando técnicas avançadas de aprendizado de máquina, aplicamos um modelo de rede neural para prever a MEDV, oferecendo assim uma ferramenta preditiva valiosa para compreender e estimar os valores de ocupação das casa.
+
+**Rede Neural: Prevendo o valor da mediana de ocupação das casas (MEDV) do dataset 'Boston Housing Dataset'**[clique aqui](https://github.com/leticiadluz/Machine_learning_modelos/blob/main/Rede_neural.ipynb)
 
 ## Ferramentas utilizadas
 

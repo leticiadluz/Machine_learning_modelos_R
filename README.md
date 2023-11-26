@@ -24,7 +24,7 @@ O projeto aborda desafios relacionados à visão computacional, especificamente 
 
 **Classificação: Modelo SVM - Reconhecimento Óptico de Caracteres** [clique aqui](https://github.com/leticiadluz/Machine_learning_modelos/blob/main/Modelo_SVM.ipynb)
 
-No último mini-projeto empregamos um modelo de rede neural para realizar previsões do valor da mediana de ocupação das casas (MEDV) no dataset. A análise concentrou-se nos dados habitacionais da cidade de Boston, EUA. O conjunto de dados utilizado, conhecido como o 'Boston Housing Dataset', proporciona uma visão abrangente das características das residências na região de Boston. Utilizando técnicas avançadas de aprendizado de máquina, aplicamos um modelo de rede neural para prever a MEDV, oferecendo assim uma ferramenta preditiva valiosa para compreender e estimar os valores de ocupação das casa.
+No último mini-projeto empregamos um modelo de rede neural para realizar previsões do valor da mediana de ocupação das casas (MEDV) no dataset. A análise concentrou-se nos dados habitacionais da cidade de Boston, EUA. O conjunto de dados utilizado, conhecido como o 'Boston Housing Dataset', proporciona uma visão abrangente das características das residências na região de Boston. Utilizando técnicas avançadas de aprendizado de máquina, aplicamos um modelo de rede neural para prever a MEDV, oferecendo assim uma ferramenta preditiva para compreender e estimar os valores de ocupação das casa.
 
 **Rede Neural: Prevendo o valor da mediana de ocupação das casas (MEDV) do dataset 'Boston Housing Dataset'** [clique aqui](https://github.com/leticiadluz/Machine_learning_modelos/blob/main/Rede_neural.ipynb)
 

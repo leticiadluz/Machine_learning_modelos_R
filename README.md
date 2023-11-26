@@ -10,7 +10,7 @@ cada campanha e o retorno esperado.
 
 **Regressão Linear: Machine Learning em Marketing Digital - Prevendo Usuários Convertidos**  [clique aqui](https://github.com/leticiadluz/Machine_learning_modelos/blob/main/Machine.learning_Marketing.digital_Regressao.ipynb)
 
-O Segundo bloco utiliza emprega um conjunto de métricas para criar um modelo de regressão linear capaz de prever a nota final dos alunos em um determinado conjunto de dados. Nessa análise, exploram-se múltiplos indicadores e variáveis para construir um modelo preditivo capaz de estimar com precisão as notas finais dos estudantes
+O Segundo bloco emprega um conjunto de métricas para criar um modelo de regressão linear capaz de prever a nota final dos alunos em um determinado conjunto de dados. Nessa análise, exploram-se múltiplos indicadores e variáveis para construir um modelo preditivo capaz de estimar com precisão as notas finais dos estudantes
 
 **Regressão Linear: Machine Learning - Prevendo a nota final de alunos**  [clique aqui](https://github.com/leticiadluz/Machine_learning_modelos/blob/main/Previsao_notafinal_Regressao.ipynb)
 

@@ -22,11 +22,15 @@ A Regressão Logística é utilizada para prever a probabilidade de um evento oc
 Neste outro projeto, dedicamo-nos à tarefa de classificação utilizando o dataset do Titanic, amplamente reconhecido por sua aplicação em competições do Kaggle. O objetivo é determinar se um passageiro sobreviverá ou não ao naufrágio. Empregamos, também, a técnica de regressão logística para conduzir essas classificações. Além disso, conduzimos uma análise exploratória dos dados, a qual proporcionou insights significativos sobre o perfil dos sobreviventes.  
 **Classificação: Regressão Logística - Análise e Classificação de Sobrevivência no Titanic** [clique aqui](https://github.com/leticiadluz/Machine_learning_modelos_R/blob/main/Titanic_Kaggle.ipynb)
 
+Agora, empregamos o conjunto de dados HouseVotes8, o qual contém informações sobre os votos do congresso em relação a temas específicos. A fim de prever se os votos pertenciam a democratas ou republicanos, optamos por utilizar o modelo Naive Bayes para fins de classificação.    
+**Classificação Partidária no Congresso: Uma Análise com Naive Bayes usando o Dataset HouseVotes8** [clique aqui](https://github.com/leticiadluz/Machine_learning_modelos_R/blob/main/Previsao_votos_republicamos_democratas.ipynb)
+
 Neste outro mini-projeto dedicado à classificação, adotamos o modelo SVM (Support Vector Machine). O propósito central é antecipar a identificação de caracteres com base no conjunto de dados fornecido. 
 Definindo o Problema: OCR - Optical Character Recognition (Reconhecimento Óptico de Caracteres)
 O projeto aborda desafios relacionados à visão computacional, especificamente no âmbito de OCR. O objetivo é treinar o modelo SVM para prever o caractere contido em imagens, tornando-se um componente valioso em sistemas que requerem a interpretação automática de caracteres a partir de documentos, imagens ou outros formatos visuais. Este avanço em Optical Character Recognition promove a automação de processos que envolvem a leitura e interpretação de texto, proporcionando ganhos significativos em eficiência e precisão.  
 **Classificação: Modelo SVM - Reconhecimento Óptico de Caracteres** [clique aqui](https://github.com/leticiadluz/Machine_learning_modelos/blob/main/Modelo_SVM.ipynb)
 
+## Rede Neural
 No último mini-projeto empregamos um modelo de rede neural para realizar previsões do valor da mediana de ocupação das casas (MEDV) no dataset. A análise concentrou-se nos dados habitacionais da cidade de Boston, EUA. O conjunto de dados utilizado, conhecido como o 'Boston Housing Dataset', proporciona uma visão abrangente das características das residências na região de Boston. Utilizando técnicas avançadas de aprendizado de máquina, aplicamos um modelo de rede neural para prever a MEDV, oferecendo assim uma ferramenta preditiva para compreender e estimar os valores de ocupação das casa.  
 **Rede Neural: Prevendo o valor da mediana de ocupação das casas (MEDV) do dataset 'Boston Housing Dataset'** [clique aqui](https://github.com/leticiadluz/Machine_learning_modelos/blob/main/Rede_neural.ipynb)
 

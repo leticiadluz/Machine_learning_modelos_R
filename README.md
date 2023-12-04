@@ -41,6 +41,8 @@ O pacote caret (Classification And REgression Training) em R é uma ferramenta a
 bastante útil para avaliar e comparar diferentes conjuntos de variáveis (features) em um modelo de aprendizado de máquina. Ele facilita a seleção de variáveis importantes, a avaliação de modelos com diferentes conjuntos de features e a comparação de desempenho entre modelos.
 Para veririficar o uso do **Pacote Caret** [clique aqui](https://github.com/leticiadluz/Machine_learning_modelos_R/blob/main/Pacote_Caret.ipynb)
 
+O Random Forest é um algoritmo de aprendizado de máquina que pertence à categoria de métodos ensemble, ou seja, ele combina as previsões de vários modelos para melhorar o desempenho e a generalização do modelo final. Ele é uma técnica poderosa para avaliar modelos, especialmente em tarefas de classificação e regressão.
+**Random Forest**[clique aqui](https://github.com/leticiadluz/Machine_learning_modelos_R/blob/main/RandomForest.ipynb)
 
 ## Ferramentas utilizadas
 

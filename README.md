@@ -34,6 +34,14 @@ O projeto aborda desafios relacionados à visão computacional, especificamente 
 No último mini-projeto empregamos um modelo de rede neural para realizar previsões do valor da mediana de ocupação das casas (MEDV) no dataset. A análise concentrou-se nos dados habitacionais da cidade de Boston, EUA. O conjunto de dados utilizado, conhecido como o 'Boston Housing Dataset', proporciona uma visão abrangente das características das residências na região de Boston. Utilizando técnicas avançadas de aprendizado de máquina, aplicamos um modelo de rede neural para prever a MEDV, oferecendo assim uma ferramenta preditiva para compreender e estimar os valores de ocupação das casa.  
 **Rede Neural: Prevendo o valor da mediana de ocupação das casas (MEDV) do dataset 'Boston Housing Dataset'** [clique aqui](https://github.com/leticiadluz/Machine_learning_modelos/blob/main/Rede_neural.ipynb)
 
+## Extras
+Trouxe também dois notebooks extras para demonstrar a uso do pacote Caret e algoritmo Random Forest
+
+O pacote caret (Classification And REgression Training) em R é uma ferramenta abrangente e flexível para treinar e avaliar modelos de aprendizado de máquina. O pacote caret é 
+bastante útil para avaliar e comparar diferentes conjuntos de variáveis (features) em um modelo de aprendizado de máquina. Ele facilita a seleção de variáveis importantes, a avaliação de modelos com diferentes conjuntos de features e a comparação de desempenho entre modelos.
+Para veririficar o uso do **Pacote Caret** [clique aqui](https://github.com/leticiadluz/Machine_learning_modelos_R/blob/main/Pacote_Caret.ipynb)
+
+
 ## Ferramentas utilizadas
 
 * Jupyter Notebook
